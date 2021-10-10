@@ -1,0 +1,264 @@
+{"level":30,"time":"2021-10-10T15:03:27.754Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Listening on 64533"}
+{"level":30,"time":"2021-10-10T15:03:28.573Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2021-10-10T15:03:28.587Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Changed active context"}
+{"level":30,"time":"2021-10-10T15:03:28.798Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Video path: undefined"}
+{"level":30,"time":"2021-10-10T15:03:28.798Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Changed active page"}
+{"level":30,"time":"2021-10-10T15:03:29.392Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Page|Frame|Element resolved elementSelector: css=.carousel"}
+{"level":30,"time":"2021-10-10T15:03:29.430Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Page|Frame|Element resolved elementSelector: text=Depositar"}
+{"level":30,"time":"2021-10-10T15:03:29.601Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Page|Frame|Element resolved elementSelector: css=.modal-deposito .swal2-input"}
+{"level":30,"time":"2021-10-10T15:03:29.727Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Page|Frame|Element resolved elementSelector: css=.modal-deposito .swal2-confirm"}
+{"level":30,"time":"2021-10-10T15:03:30.007Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Page|Frame|Element resolved elementSelector: xpath=//td[contains(text(),\"Depósito online\")]/..//span[contains(text(),\"100\")]/../.."}
+{"level":30,"time":"2021-10-10T15:03:30.171Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Changed active context"}
+{"level":30,"time":"2021-10-10T15:03:30.171Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Changing current active page"}
+{"level":30,"time":"2021-10-10T15:03:30.171Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Changed active page"}
+{"level":30,"time":"2021-10-10T15:03:30.181Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Changed active context"}
+{"level":30,"time":"2021-10-10T15:03:30.181Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Changing current active page"}
+{"level":30,"time":"2021-10-10T15:03:30.181Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Changed active page"}
+{"level":30,"time":"2021-10-10T15:03:30.942Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2021-10-10T15:03:30.951Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Changed active context"}
+{"level":30,"time":"2021-10-10T15:03:31.157Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Video path: undefined"}
+{"level":30,"time":"2021-10-10T15:03:31.157Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Changed active page"}
+{"level":30,"time":"2021-10-10T15:03:31.737Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Page|Frame|Element resolved elementSelector: css=.carousel"}
+{"level":30,"time":"2021-10-10T15:03:31.767Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Page|Frame|Element resolved elementSelector: text=Depositar"}
+{"level":30,"time":"2021-10-10T15:03:31.914Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Page|Frame|Element resolved elementSelector: css=.modal-deposito .swal2-input"}
+{"level":30,"time":"2021-10-10T15:03:32.042Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Page|Frame|Element resolved elementSelector: css=.modal-deposito .swal2-confirm"}
+{"level":30,"time":"2021-10-10T15:03:32.304Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Page|Frame|Element resolved elementSelector: css=.swal2-popup >> text=O valor do depósito deve ser maior que ZERO!"}
+{"level":30,"time":"2021-10-10T15:03:32.444Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Changed active context"}
+{"level":30,"time":"2021-10-10T15:03:32.444Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Changing current active page"}
+{"level":30,"time":"2021-10-10T15:03:32.444Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Changed active page"}
+{"level":30,"time":"2021-10-10T15:03:32.454Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Changed active context"}
+{"level":30,"time":"2021-10-10T15:03:32.454Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Changing current active page"}
+{"level":30,"time":"2021-10-10T15:03:32.454Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Changed active page"}
+{"level":30,"time":"2021-10-10T15:03:33.165Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2021-10-10T15:03:33.173Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Changed active context"}
+{"level":30,"time":"2021-10-10T15:03:33.398Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Video path: undefined"}
+{"level":30,"time":"2021-10-10T15:03:33.398Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Changed active page"}
+{"level":30,"time":"2021-10-10T15:03:33.983Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Page|Frame|Element resolved elementSelector: css=.carousel"}
+{"level":30,"time":"2021-10-10T15:03:34.007Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Page|Frame|Element resolved elementSelector: css=div.navbar-end a.navbar-item"}
+{"level":30,"time":"2021-10-10T15:03:34.025Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Strict mode is: true"}
+{"level":30,"time":"2021-10-10T15:03:34.044Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Retrieved text for element css=div.navbar-end a.navbar-item containing Olá Papito, seu saldo é R$ 1000"}
+{"level":30,"time":"2021-10-10T15:03:34.249Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Changed active context"}
+{"level":30,"time":"2021-10-10T15:03:34.249Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Changing current active page"}
+{"level":30,"time":"2021-10-10T15:03:34.249Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Changed active page"}
+{"level":30,"time":"2021-10-10T15:03:34.258Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Changed active context"}
+{"level":30,"time":"2021-10-10T15:03:34.258Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Changing current active page"}
+{"level":30,"time":"2021-10-10T15:03:34.258Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Changed active page"}
+{"level":30,"time":"2021-10-10T15:03:34.889Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2021-10-10T15:03:34.901Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Changed active context"}
+{"level":30,"time":"2021-10-10T15:03:35.118Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Video path: undefined"}
+{"level":30,"time":"2021-10-10T15:03:35.118Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Changed active page"}
+{"level":30,"time":"2021-10-10T15:03:35.628Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Page|Frame|Element resolved elementSelector: css=.carousel"}
+{"level":30,"time":"2021-10-10T15:03:35.650Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Page|Frame|Element resolved elementSelector: css=div.navbar-end a.navbar-item"}
+{"level":30,"time":"2021-10-10T15:03:35.666Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Strict mode is: true"}
+{"level":30,"time":"2021-10-10T15:03:35.682Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Retrieved text for element css=div.navbar-end a.navbar-item containing Olá Papito, seu saldo é R$ 1000"}
+{"level":30,"time":"2021-10-10T15:03:35.687Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Page|Frame|Element resolved elementSelector: text=Fazer PIX"}
+{"level":30,"time":"2021-10-10T15:03:35.838Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Page|Frame|Element resolved elementSelector: css=.is-expanded select"}
+{"level":30,"time":"2021-10-10T15:03:35.868Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Page|Frame|Element resolved elementSelector: id=chave-pix"}
+{"level":30,"time":"2021-10-10T15:03:35.897Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Page|Frame|Element resolved elementSelector: id=valor"}
+{"level":30,"time":"2021-10-10T15:03:35.922Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Page|Frame|Element resolved elementSelector: text=Enviar PIX"}
+{"level":30,"time":"2021-10-10T15:03:36.068Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Page|Frame|Element resolved elementSelector: css=div.navbar-end a.navbar-item"}
+{"level":30,"time":"2021-10-10T15:03:36.080Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Strict mode is: true"}
+{"level":30,"time":"2021-10-10T15:03:36.094Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Retrieved text for element css=div.navbar-end a.navbar-item containing Olá Papito, seu saldo é R$ 900"}
+{"level":30,"time":"2021-10-10T15:03:36.098Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Page|Frame|Element resolved elementSelector: xpath=//td[contains(text(),\"21 9876-54321\")]/.."}
+{"level":30,"time":"2021-10-10T15:03:36.110Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Strict mode is: true"}
+{"level":30,"time":"2021-10-10T15:03:36.124Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Retrieved text for element xpath=//td[contains(text(),\"21 9876-54321\")]/.. containing 989-626-1523\tEnvio de PIX\tNubank - PIX para 21 9876-54321\t10/10/2021\tR$ -100 "}
+{"level":30,"time":"2021-10-10T15:03:36.126Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Strict mode is: true"}
+{"level":30,"time":"2021-10-10T15:03:36.138Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Retrieved text for element xpath=//td[contains(text(),\"21 9876-54321\")]/.. containing 989-626-1523\tEnvio de PIX\tNubank - PIX para 21 9876-54321\t10/10/2021\tR$ -100 "}
+{"level":30,"time":"2021-10-10T15:03:36.292Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Changed active context"}
+{"level":30,"time":"2021-10-10T15:03:36.292Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Changing current active page"}
+{"level":30,"time":"2021-10-10T15:03:36.292Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Changed active page"}
+{"level":30,"time":"2021-10-10T15:03:36.303Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Changed active context"}
+{"level":30,"time":"2021-10-10T15:03:36.303Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Changing current active page"}
+{"level":30,"time":"2021-10-10T15:03:36.303Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Changed active page"}
+{"level":30,"time":"2021-10-10T15:03:37.053Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2021-10-10T15:03:37.062Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Changed active context"}
+{"level":30,"time":"2021-10-10T15:03:37.277Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Video path: undefined"}
+{"level":30,"time":"2021-10-10T15:03:37.277Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Changed active page"}
+{"level":30,"time":"2021-10-10T15:03:37.906Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Page|Frame|Element resolved elementSelector: css=.carousel"}
+{"level":30,"time":"2021-10-10T15:03:37.931Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Page|Frame|Element resolved elementSelector: css=div.navbar-end a.navbar-item"}
+{"level":30,"time":"2021-10-10T15:03:37.951Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Strict mode is: true"}
+{"level":30,"time":"2021-10-10T15:03:37.966Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Retrieved text for element css=div.navbar-end a.navbar-item containing Olá Papito, seu saldo é R$ 1000"}
+{"level":30,"time":"2021-10-10T15:03:37.970Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Page|Frame|Element resolved elementSelector: text=Fazer PIX"}
+{"level":30,"time":"2021-10-10T15:03:38.037Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Page|Frame|Element resolved elementSelector: css=.is-expanded select"}
+{"level":30,"time":"2021-10-10T15:03:38.063Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Page|Frame|Element resolved elementSelector: id=chave-pix"}
+{"level":30,"time":"2021-10-10T15:03:38.096Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Page|Frame|Element resolved elementSelector: id=valor"}
+{"level":30,"time":"2021-10-10T15:03:38.162Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Page|Frame|Element resolved elementSelector: text=Enviar PIX"}
+{"level":30,"time":"2021-10-10T15:03:38.340Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Page|Frame|Element resolved elementSelector: css=.message-body .media-content"}
+{"level":30,"time":"2021-10-10T15:03:38.351Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Strict mode is: true"}
+{"level":30,"time":"2021-10-10T15:03:38.365Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Retrieved text for element css=.message-body .media-content containing Oops. Transferir ZERO é osso hein..."}
+{"level":30,"time":"2021-10-10T15:03:38.494Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Changed active context"}
+{"level":30,"time":"2021-10-10T15:03:38.494Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Changing current active page"}
+{"level":30,"time":"2021-10-10T15:03:38.494Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Changed active page"}
+{"level":30,"time":"2021-10-10T15:03:38.503Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Changed active context"}
+{"level":30,"time":"2021-10-10T15:03:38.503Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Changing current active page"}
+{"level":30,"time":"2021-10-10T15:03:38.503Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Changed active page"}
+{"level":30,"time":"2021-10-10T15:03:39.191Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2021-10-10T15:03:39.201Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Changed active context"}
+{"level":30,"time":"2021-10-10T15:03:39.423Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Video path: undefined"}
+{"level":30,"time":"2021-10-10T15:03:39.423Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Changed active page"}
+{"level":30,"time":"2021-10-10T15:03:39.982Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Page|Frame|Element resolved elementSelector: css=.carousel"}
+{"level":30,"time":"2021-10-10T15:03:40.008Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Page|Frame|Element resolved elementSelector: css=div.navbar-end a.navbar-item"}
+{"level":30,"time":"2021-10-10T15:03:40.023Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Strict mode is: true"}
+{"level":30,"time":"2021-10-10T15:03:40.041Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Retrieved text for element css=div.navbar-end a.navbar-item containing Olá Papito, seu saldo é R$ 1000"}
+{"level":30,"time":"2021-10-10T15:03:40.044Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Page|Frame|Element resolved elementSelector: text=Fazer PIX"}
+{"level":30,"time":"2021-10-10T15:03:40.171Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Page|Frame|Element resolved elementSelector: css=.is-expanded select"}
+{"level":30,"time":"2021-10-10T15:03:40.195Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Page|Frame|Element resolved elementSelector: id=chave-pix"}
+{"level":30,"time":"2021-10-10T15:03:40.224Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Page|Frame|Element resolved elementSelector: id=valor"}
+{"level":30,"time":"2021-10-10T15:03:40.248Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Page|Frame|Element resolved elementSelector: text=Enviar PIX"}
+{"level":30,"time":"2021-10-10T15:03:40.403Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Page|Frame|Element resolved elementSelector: css=.message-body .media-content"}
+{"level":30,"time":"2021-10-10T15:03:40.416Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Strict mode is: true"}
+{"level":30,"time":"2021-10-10T15:03:40.428Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Retrieved text for element css=.message-body .media-content containing Oops. Transferir ZERO é osso hein..."}
+{"level":30,"time":"2021-10-10T15:03:40.446Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Strict mode is: true"}
+{"level":30,"time":"2021-10-10T15:03:40.458Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Retrieved text for element css=.message-body .media-content containing Oops. Transferir ZERO é osso hein..."}
+{"level":30,"time":"2021-10-10T15:03:40.478Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Strict mode is: true"}
+{"level":30,"time":"2021-10-10T15:03:40.488Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Retrieved text for element css=.message-body .media-content containing Oops. Transferir ZERO é osso hein..."}
+{"level":30,"time":"2021-10-10T15:03:40.508Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Strict mode is: true"}
+{"level":30,"time":"2021-10-10T15:03:40.518Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Retrieved text for element css=.message-body .media-content containing Oops. Transferir ZERO é osso hein..."}
+{"level":30,"time":"2021-10-10T15:03:40.540Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Strict mode is: true"}
+{"level":30,"time":"2021-10-10T15:03:40.553Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Retrieved text for element css=.message-body .media-content containing Oops. Transferir ZERO é osso hein..."}
+{"level":30,"time":"2021-10-10T15:03:40.570Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Strict mode is: true"}
+{"level":30,"time":"2021-10-10T15:03:40.581Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Retrieved text for element css=.message-body .media-content containing Oops. Transferir ZERO é osso hein..."}
+{"level":30,"time":"2021-10-10T15:03:40.600Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Strict mode is: true"}
+{"level":30,"time":"2021-10-10T15:03:40.610Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Retrieved text for element css=.message-body .media-content containing Oops. Transferir ZERO é osso hein..."}
+{"level":30,"time":"2021-10-10T15:03:40.631Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Strict mode is: true"}
+{"level":30,"time":"2021-10-10T15:03:40.641Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Retrieved text for element css=.message-body .media-content containing Oops. Transferir ZERO é osso hein..."}
+{"level":30,"time":"2021-10-10T15:03:40.661Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Strict mode is: true"}
+{"level":30,"time":"2021-10-10T15:03:40.670Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Retrieved text for element css=.message-body .media-content containing Oops. Transferir ZERO é osso hein..."}
+{"level":30,"time":"2021-10-10T15:03:40.692Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Strict mode is: true"}
+{"level":30,"time":"2021-10-10T15:03:40.702Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Retrieved text for element css=.message-body .media-content containing Oops. Transferir ZERO é osso hein..."}
+{"level":30,"time":"2021-10-10T15:03:40.722Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Strict mode is: true"}
+{"level":30,"time":"2021-10-10T15:03:40.734Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Retrieved text for element css=.message-body .media-content containing Oops. Transferir ZERO é osso hein..."}
+{"level":30,"time":"2021-10-10T15:03:40.753Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Strict mode is: true"}
+{"level":30,"time":"2021-10-10T15:03:40.767Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Retrieved text for element css=.message-body .media-content containing Oops. Transferir ZERO é osso hein..."}
+{"level":30,"time":"2021-10-10T15:03:40.784Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Strict mode is: true"}
+{"level":30,"time":"2021-10-10T15:03:40.795Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Retrieved text for element css=.message-body .media-content containing Oops. Transferir ZERO é osso hein..."}
+{"level":30,"time":"2021-10-10T15:03:40.815Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Strict mode is: true"}
+{"level":30,"time":"2021-10-10T15:03:40.828Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Retrieved text for element css=.message-body .media-content containing Oops. Transferir ZERO é osso hein..."}
+{"level":30,"time":"2021-10-10T15:03:40.845Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Strict mode is: true"}
+{"level":30,"time":"2021-10-10T15:03:40.859Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Retrieved text for element css=.message-body .media-content containing Oops. Transferir ZERO é osso hein..."}
+{"level":30,"time":"2021-10-10T15:03:40.877Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Strict mode is: true"}
+{"level":30,"time":"2021-10-10T15:03:40.889Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Retrieved text for element css=.message-body .media-content containing Oops. Transferir ZERO é osso hein..."}
+{"level":30,"time":"2021-10-10T15:03:40.908Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Strict mode is: true"}
+{"level":30,"time":"2021-10-10T15:03:40.919Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Retrieved text for element css=.message-body .media-content containing Oops. Transferir ZERO é osso hein..."}
+{"level":30,"time":"2021-10-10T15:03:40.938Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Strict mode is: true"}
+{"level":30,"time":"2021-10-10T15:03:40.949Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Retrieved text for element css=.message-body .media-content containing Oops. Transferir ZERO é osso hein..."}
+{"level":30,"time":"2021-10-10T15:03:40.968Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Strict mode is: true"}
+{"level":30,"time":"2021-10-10T15:03:40.982Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Retrieved text for element css=.message-body .media-content containing Oops. Transferir ZERO é osso hein..."}
+{"level":30,"time":"2021-10-10T15:03:40.999Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Strict mode is: true"}
+{"level":30,"time":"2021-10-10T15:03:41.010Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Retrieved text for element css=.message-body .media-content containing Oops. Transferir ZERO é osso hein..."}
+{"level":30,"time":"2021-10-10T15:03:41.030Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Strict mode is: true"}
+{"level":30,"time":"2021-10-10T15:03:41.042Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Retrieved text for element css=.message-body .media-content containing Oops. Transferir ZERO é osso hein..."}
+{"level":30,"time":"2021-10-10T15:03:41.060Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Strict mode is: true"}
+{"level":30,"time":"2021-10-10T15:03:41.070Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Retrieved text for element css=.message-body .media-content containing Oops. Transferir ZERO é osso hein..."}
+{"level":30,"time":"2021-10-10T15:03:41.091Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Strict mode is: true"}
+{"level":30,"time":"2021-10-10T15:03:41.102Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Retrieved text for element css=.message-body .media-content containing Oops. Transferir ZERO é osso hein..."}
+{"level":30,"time":"2021-10-10T15:03:41.122Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Strict mode is: true"}
+{"level":30,"time":"2021-10-10T15:03:41.133Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Retrieved text for element css=.message-body .media-content containing Oops. Transferir ZERO é osso hein..."}
+{"level":30,"time":"2021-10-10T15:03:41.154Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Strict mode is: true"}
+{"level":30,"time":"2021-10-10T15:03:41.166Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Retrieved text for element css=.message-body .media-content containing Oops. Transferir ZERO é osso hein..."}
+{"level":30,"time":"2021-10-10T15:03:41.184Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Strict mode is: true"}
+{"level":30,"time":"2021-10-10T15:03:41.203Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Retrieved text for element css=.message-body .media-content containing Oops. Transferir ZERO é osso hein..."}
+{"level":30,"time":"2021-10-10T15:03:41.214Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Strict mode is: true"}
+{"level":30,"time":"2021-10-10T15:03:41.227Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Retrieved text for element css=.message-body .media-content containing Oops. Transferir ZERO é osso hein..."}
+{"level":30,"time":"2021-10-10T15:03:41.244Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Strict mode is: true"}
+{"level":30,"time":"2021-10-10T15:03:41.254Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Retrieved text for element css=.message-body .media-content containing Oops. Transferir ZERO é osso hein..."}
+{"level":30,"time":"2021-10-10T15:03:41.275Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Strict mode is: true"}
+{"level":30,"time":"2021-10-10T15:03:41.285Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Retrieved text for element css=.message-body .media-content containing Oops. Transferir ZERO é osso hein..."}
+{"level":30,"time":"2021-10-10T15:03:41.306Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Strict mode is: true"}
+{"level":30,"time":"2021-10-10T15:03:41.316Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Retrieved text for element css=.message-body .media-content containing Oops. Transferir ZERO é osso hein..."}
+{"level":30,"time":"2021-10-10T15:03:41.336Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Strict mode is: true"}
+{"level":30,"time":"2021-10-10T15:03:41.347Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Retrieved text for element css=.message-body .media-content containing Oops. Transferir ZERO é osso hein..."}
+{"level":30,"time":"2021-10-10T15:03:41.367Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Strict mode is: true"}
+{"level":30,"time":"2021-10-10T15:03:41.380Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Retrieved text for element css=.message-body .media-content containing Oops. Transferir ZERO é osso hein..."}
+{"level":30,"time":"2021-10-10T15:03:41.397Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Strict mode is: true"}
+{"level":30,"time":"2021-10-10T15:03:41.408Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Retrieved text for element css=.message-body .media-content containing Oops. Transferir ZERO é osso hein..."}
+{"level":30,"time":"2021-10-10T15:03:41.428Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Strict mode is: true"}
+{"level":30,"time":"2021-10-10T15:03:41.440Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Retrieved text for element css=.message-body .media-content containing Oops. Transferir ZERO é osso hein..."}
+{"level":30,"time":"2021-10-10T15:03:41.695Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Changed active context"}
+{"level":30,"time":"2021-10-10T15:03:41.695Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Changing current active page"}
+{"level":30,"time":"2021-10-10T15:03:41.695Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Changed active page"}
+{"level":30,"time":"2021-10-10T15:03:41.705Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Changed active context"}
+{"level":30,"time":"2021-10-10T15:03:41.705Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Changing current active page"}
+{"level":30,"time":"2021-10-10T15:03:41.705Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Changed active page"}
+{"level":30,"time":"2021-10-10T15:03:42.409Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2021-10-10T15:03:42.418Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Changed active context"}
+{"level":30,"time":"2021-10-10T15:03:42.641Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Video path: undefined"}
+{"level":30,"time":"2021-10-10T15:03:42.641Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Changed active page"}
+{"level":30,"time":"2021-10-10T15:03:43.223Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Page|Frame|Element resolved elementSelector: css=.carousel"}
+{"level":30,"time":"2021-10-10T15:03:43.248Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Page|Frame|Element resolved elementSelector: css=div.navbar-end a.navbar-item"}
+{"level":30,"time":"2021-10-10T15:03:43.262Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Strict mode is: true"}
+{"level":30,"time":"2021-10-10T15:03:43.280Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Retrieved text for element css=div.navbar-end a.navbar-item containing Olá Papito, seu saldo é R$ 1000"}
+{"level":30,"time":"2021-10-10T15:03:43.284Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Page|Frame|Element resolved elementSelector: text=Fazer PIX"}
+{"level":30,"time":"2021-10-10T15:03:43.425Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Page|Frame|Element resolved elementSelector: css=.is-expanded select"}
+{"level":30,"time":"2021-10-10T15:03:43.452Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Page|Frame|Element resolved elementSelector: id=chave-pix"}
+{"level":30,"time":"2021-10-10T15:03:43.482Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Page|Frame|Element resolved elementSelector: id=valor"}
+{"level":30,"time":"2021-10-10T15:03:43.506Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Page|Frame|Element resolved elementSelector: text=Enviar PIX"}
+{"level":30,"time":"2021-10-10T15:03:43.654Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Page|Frame|Element resolved elementSelector: css=.message-body .media-content"}
+{"level":30,"time":"2021-10-10T15:03:43.668Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Strict mode is: true"}
+{"level":30,"time":"2021-10-10T15:03:43.680Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Retrieved text for element css=.message-body .media-content containing Oops. Saldo insuficiente :("}
+{"level":30,"time":"2021-10-10T15:03:43.826Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Changed active context"}
+{"level":30,"time":"2021-10-10T15:03:43.826Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Changing current active page"}
+{"level":30,"time":"2021-10-10T15:03:43.826Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Changed active page"}
+{"level":30,"time":"2021-10-10T15:03:43.836Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Changed active context"}
+{"level":30,"time":"2021-10-10T15:03:43.836Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Changing current active page"}
+{"level":30,"time":"2021-10-10T15:03:43.836Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Changed active page"}
+{"level":30,"time":"2021-10-10T15:03:44.540Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2021-10-10T15:03:44.549Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Changed active context"}
+{"level":30,"time":"2021-10-10T15:03:44.756Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Video path: undefined"}
+{"level":30,"time":"2021-10-10T15:03:44.756Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Changed active page"}
+{"level":30,"time":"2021-10-10T15:03:45.688Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Page|Frame|Element resolved elementSelector: css=.carousel"}
+{"level":30,"time":"2021-10-10T15:03:45.719Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Page|Frame|Element resolved elementSelector: css=div.navbar-end a.navbar-item"}
+{"level":30,"time":"2021-10-10T15:03:45.735Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Strict mode is: true"}
+{"level":30,"time":"2021-10-10T15:03:45.750Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Retrieved text for element css=div.navbar-end a.navbar-item containing Olá Papito, seu saldo é R$ 1000"}
+{"level":30,"time":"2021-10-10T15:03:45.754Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Page|Frame|Element resolved elementSelector: text=Fazer PIX"}
+{"level":30,"time":"2021-10-10T15:03:45.872Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Page|Frame|Element resolved elementSelector: css=.is-expanded select"}
+{"level":30,"time":"2021-10-10T15:03:45.895Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Page|Frame|Element resolved elementSelector: id=chave-pix"}
+{"level":30,"time":"2021-10-10T15:03:45.920Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Page|Frame|Element resolved elementSelector: id=valor"}
+{"level":30,"time":"2021-10-10T15:03:45.945Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Page|Frame|Element resolved elementSelector: text=Enviar PIX"}
+{"level":30,"time":"2021-10-10T15:03:46.102Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Page|Frame|Element resolved elementSelector: css=small.alert >> text=* Escolha um banco."}
+{"level":30,"time":"2021-10-10T15:03:46.266Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Changed active context"}
+{"level":30,"time":"2021-10-10T15:03:46.266Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Changing current active page"}
+{"level":30,"time":"2021-10-10T15:03:46.266Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Changed active page"}
+{"level":30,"time":"2021-10-10T15:03:46.275Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Changed active context"}
+{"level":30,"time":"2021-10-10T15:03:46.275Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Changing current active page"}
+{"level":30,"time":"2021-10-10T15:03:46.275Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Changed active page"}
+{"level":30,"time":"2021-10-10T15:03:46.996Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2021-10-10T15:03:47.013Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Changed active context"}
+{"level":30,"time":"2021-10-10T15:03:47.211Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Video path: undefined"}
+{"level":30,"time":"2021-10-10T15:03:47.211Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Changed active page"}
+{"level":30,"time":"2021-10-10T15:03:47.795Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Page|Frame|Element resolved elementSelector: css=.carousel"}
+{"level":30,"time":"2021-10-10T15:03:47.824Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Page|Frame|Element resolved elementSelector: css=div.navbar-end a.navbar-item"}
+{"level":30,"time":"2021-10-10T15:03:47.841Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Strict mode is: true"}
+{"level":30,"time":"2021-10-10T15:03:47.862Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Retrieved text for element css=div.navbar-end a.navbar-item containing Olá Papito, seu saldo é R$ 1000"}
+{"level":30,"time":"2021-10-10T15:03:47.866Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Page|Frame|Element resolved elementSelector: text=Fazer PIX"}
+{"level":30,"time":"2021-10-10T15:03:48.006Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Page|Frame|Element resolved elementSelector: css=.is-expanded select"}
+{"level":30,"time":"2021-10-10T15:03:48.030Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Page|Frame|Element resolved elementSelector: id=chave-pix"}
+{"level":30,"time":"2021-10-10T15:03:48.046Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Page|Frame|Element resolved elementSelector: id=valor"}
+{"level":30,"time":"2021-10-10T15:03:48.073Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Page|Frame|Element resolved elementSelector: text=Enviar PIX"}
+{"level":30,"time":"2021-10-10T15:03:48.277Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Page|Frame|Element resolved elementSelector: css=small.alert >> text=* Informe a Chave PIX."}
+{"level":30,"time":"2021-10-10T15:03:48.448Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Changed active context"}
+{"level":30,"time":"2021-10-10T15:03:48.448Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Changing current active page"}
+{"level":30,"time":"2021-10-10T15:03:48.448Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Changed active page"}
+{"level":30,"time":"2021-10-10T15:03:48.458Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Changed active context"}
+{"level":30,"time":"2021-10-10T15:03:48.458Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Changing current active page"}
+{"level":30,"time":"2021-10-10T15:03:48.458Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Changed active page"}
+{"level":30,"time":"2021-10-10T15:03:49.260Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2021-10-10T15:03:49.271Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Changed active context"}
+{"level":30,"time":"2021-10-10T15:03:49.484Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Video path: undefined"}
+{"level":30,"time":"2021-10-10T15:03:49.484Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Changed active page"}
+{"level":30,"time":"2021-10-10T15:03:50.093Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Page|Frame|Element resolved elementSelector: css=.carousel"}
+{"level":30,"time":"2021-10-10T15:03:50.116Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Page|Frame|Element resolved elementSelector: css=div.navbar-end a.navbar-item"}
+{"level":30,"time":"2021-10-10T15:03:50.129Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Strict mode is: true"}
+{"level":30,"time":"2021-10-10T15:03:50.149Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Retrieved text for element css=div.navbar-end a.navbar-item containing Olá Papito, seu saldo é R$ 1000"}
+{"level":30,"time":"2021-10-10T15:03:50.153Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Page|Frame|Element resolved elementSelector: text=Fazer PIX"}
+{"level":30,"time":"2021-10-10T15:03:50.293Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Page|Frame|Element resolved elementSelector: css=.is-expanded select"}
+{"level":30,"time":"2021-10-10T15:03:50.316Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Page|Frame|Element resolved elementSelector: id=chave-pix"}
+{"level":30,"time":"2021-10-10T15:03:50.346Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Page|Frame|Element resolved elementSelector: id=valor"}
+{"level":30,"time":"2021-10-10T15:03:50.361Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Page|Frame|Element resolved elementSelector: text=Enviar PIX"}
+{"level":30,"time":"2021-10-10T15:03:50.534Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Page|Frame|Element resolved elementSelector: css=small.alert >> text=* Informe o valor para transferência."}
+{"level":30,"time":"2021-10-10T15:03:50.695Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Changed active context"}
+{"level":30,"time":"2021-10-10T15:03:50.695Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Changing current active page"}
+{"level":30,"time":"2021-10-10T15:03:50.695Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Changed active page"}
+{"level":30,"time":"2021-10-10T15:03:50.716Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Changed active context"}
+{"level":30,"time":"2021-10-10T15:03:50.716Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Changing current active page"}
+{"level":30,"time":"2021-10-10T15:03:50.716Z","pid":11432,"hostname":"DESKTOP-J783RV2","msg":"Changed active page"}
